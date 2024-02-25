@@ -1,4 +1,4 @@
-<div textAlign=right>
+<div style="text-align: center;">
   Text test
   <img src="../Assets/Utility_Badge.png" height=30>
 </div>
