@@ -11,6 +11,10 @@ Live example:
 
 https://github.com/cluster-coder/Utilities-and-Mockups/assets/135213710/2747b5fa-3752-41da-949b-e316dc0d269e
 
+Same time, longer distance:
+
+https://github.com/cluster-coder/Utilities-and-Mockups/assets/135213710/6b9381ee-ae4e-46a2-862e-f7bdc3e267a7
+
 ## Parameters of scrollSmooth()
 - `distance`  
   - The distance in pixels of where the function will end, if negative will scroll downwards 
