@@ -1,7 +1,7 @@
 function easeInOutArray(Averagenumber, Arraysize, Rnumbers, finalOnees=0){
 //declarations
 	//console.log('called easeInOutArray')
-	let finalOnes=1
+	let finalOnes=0
 	if (Arraysize>finalOnees+2){finalOnes=finalOnees}
 	let pure=Arraysize-finalOnes
 	let Avnumber=Averagenumber
