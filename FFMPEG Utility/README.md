@@ -1,4 +1,5 @@
-<img src="../Assets/Utility_Badge.png" height=30>
+<img src="../Assets/Utility_Badge.png" height=30 align="right">
+
 A really simple python script to convert all the videos inside a folder to audio.
 
 Just execute the script and paste the folder's path.
