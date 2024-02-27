@@ -7,6 +7,10 @@ A function to have precise control of the time and distance of a smooth scroll. 
 >[!NOTE]
 >If fine control over the easing and time is not something that concerns you, I recommend you instead to use either the CSS property ["scroll-behavior: smooth"](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior) or the window method ["scrollTo"](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollTo) with its scroll-behavior.
 
+Live example:
+
+https://github.com/cluster-coder/Utilities-and-Mockups/assets/135213710/2747b5fa-3752-41da-949b-e316dc0d269e
+
 ## Parameters of scrollSmooth()
 - `distance`  
   - The distance in pixels of where the function will end, if negative will scroll downwards 
