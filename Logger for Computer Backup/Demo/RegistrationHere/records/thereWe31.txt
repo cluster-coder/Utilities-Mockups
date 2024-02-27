@@ -1,0 +1,426 @@
+startedmissing28
+
+
+Original Folder: C:\hypothetical Folder
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder
+================================
+Subfolders included in the backup: 
+Chaos folder
+I want this folder backed up
+Images going to cloud
+
+--------------------------------
+Files included in the backup: 
+Lost file in the root.something
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\Chaos folder
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+1500x5001.jpg
+279931637_148335151042491_2632919534883066444_n.jpg
+album_2021-12-04_23-46-06
+Arsenal.json
+bark.mp4
+BA_01.mp4
+buy today.txt
+ComfyTaimo.png
+donaldu.jpeg
+Draft_2_1.xlsx
+finite-oranges-part-1.pdf
+Flavor, flavor, flavor.mp4
+FNAF World 2.exe
+F_V00FwWYAAscyg.jpeg
+ghost_in_river.psd
+image.png
+images.jpeg-9.jpg
+IMG_20211226_235329.jpg
+Internet_20220602_121851_3.png
+M9efms_Q14yGC0ef.mp4
+Mega Man X - Command Mission.iso
+My-favorite-music♡.mp3
+NumbersEssay.ptx
+SPOILER_29.mp4
+Spyro the Dragon.bin
+Steam.exe
+sublime_text.exe - Atalho
+tenor (1).gif
+tenor.gif
+unnamed.png
+VID-20210118-WA0354.mp4
+Withered Chica Gangnam Style (Extended).mp4
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up
+================================
+Subfolders included in the backup: 
+empty
+Lots of folders
+
+--------------------------------
+Files included in the backup: 
+1.one
+2.two
+3.three
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\empty
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders
+================================
+Subfolders included in the backup: 
+Banana
+based
+Class project
+Favorite characters
+github repos
+GrapeJuice
+Jellybeans
+Kingdom
+My random stuff
+Natural Pineapple Juice
+notes collection
+Nova pasta
+ORj9jDEJN
+PingPlotter 5
+Potato
+Tales
+Tales collection
+Test directory
+Unity
+Vanana
+Water
+Watermelon
+Why bread must be sliced 3 times
+
+--------------------------------
+Files included in the backup: 
+filewithnoname
+Most folders here are empty.txt
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\Banana
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\based
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+Fyjjv5RXwAI51Ro.jpeg
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\Class project
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\Favorite characters
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\github repos
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\GrapeJuice
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\Jellybeans
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\Kingdom
+================================
+Subfolders included in the backup: 
+Hearts
+
+--------------------------------
+Files included in the backup: 
+filewithnoname - Copia
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\Kingdom\Hearts
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\My random stuff
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\Natural Pineapple Juice
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\notes collection
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+friday.txt
+monday.txt
+saturday.txt
+sunday.txt
+thursday.txt
+tuesday.txt
+wednesday.txt
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\Nova pasta
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\ORj9jDEJN
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\PingPlotter 5
+================================
+Subfolders included in the backup: 
+Logs
+
+--------------------------------
+Files included in the backup: 
+error_log.json
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\PingPlotter 5\Logs
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+App.log
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\Potato
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\Tales
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\Tales collection
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\Test directory
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\Unity
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+Unity_lic.ulf
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\Vanana
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+Security Breach
+Vanny + Banana = Vanana
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\Water
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\Watermelon
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\I want this folder backed up\Lots of folders\Why bread must be sliced 3 times
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+
+--------------------------------
+
+================================
+Current Folder: C:\hypothetical Folder\Images going to cloud
+================================
+Subfolders included in the backup: 
+
+--------------------------------
+Files included in the backup: 
+IMG_20240111_135152.jpg
+IMG_20240114_081357.jpg
+IMG_20240114_081459.jpg
+IMG_20240114_081521.jpg
+IMG_20240114_081533.jpg
+IMG_20240114_081546.jpg
+IMG_20240114_081553.jpg
+IMG_20240114_081556.jpg
+IMG_20240114_081559.jpg
+IMG_20240114_081601.jpg
+IMG_20240114_081603.jpg
+IMG_20240114_081606.jpg
+IMG_20240114_081610.jpg
+IMG_20240114_081613.jpg
+IMG_20240117_225310.jpg
+IMG_20240117_225346.jpg
+IMG_20240117_230625.jpg
+IMG_20240117_230637.jpg
+IMG_20240131_141717.jpg
+IMG_20240131_141733.jpg
+IMG_20240131_141739.jpg
+IMG_20240131_141742.jpg
+IMG_20240131_141805.jpg
+IMG_20240131_141825.jpg
+IMG_20240131_141835.jpg
+IMG_20240131_141901.jpg
+IMG_20240131_141903.jpg
+IMG_20240131_141917.jpg
+IMG_20240131_141923.jpg
+
+--------------------------------
